@@ -1,0 +1,15 @@
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\bin\Debug\net6.0\ObserversExo.exe
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\bin\Debug\net6.0\ObserversExo.deps.json
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\bin\Debug\net6.0\ObserversExo.runtimeconfig.json
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\bin\Debug\net6.0\ObserversExo.dll
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\bin\Debug\net6.0\ObserversExo.pdb
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\obj\Debug\net6.0\ObserversExo.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\obj\Debug\net6.0\ObserversExo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\obj\Debug\net6.0\ObserversExo.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\obj\Debug\net6.0\ObserversExo.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\obj\Debug\net6.0\ObserversExo.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\obj\Debug\net6.0\ObserversExo.dll
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\obj\Debug\net6.0\refint\ObserversExo.dll
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\obj\Debug\net6.0\ObserversExo.pdb
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\obj\Debug\net6.0\ObserversExo.genruntimeconfig.cache
+C:\Users\GavinC\RiderProjects\ObserversExo\ObserversExo\obj\Debug\net6.0\ref\ObserversExo.dll
